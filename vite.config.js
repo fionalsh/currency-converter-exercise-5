@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/currncy-converter-exercise-5/'
+  base: '/currency-converter-exercise-5/'
 })
